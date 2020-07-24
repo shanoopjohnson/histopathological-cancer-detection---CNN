@@ -11,8 +11,6 @@ Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Ne
 
 Part of the [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer-detection). 
 
-Submitted [Kernel](https://www.kaggle.com/greg115/histopathologic-cancer-detector-lb-0-958) with 0.958 LB score.
-
 Check out corresponding Medium article:
 
 [Histopathologic Cancer Detector - Machine Learning in Medicine](https://towardsdatascience.com/histopathologic-cancer-detector-finding-cancer-cells-with-machine-learning-b77ce1ee9b0a)
@@ -60,38 +58,4 @@ Check out corresponding Medium article:
 	Trainable params: 25,043,035
 	Non-trainable params: 91,266
 	__________________________________________________________________________________________________
-
-
-## Training
-
-<h3>
-  <img src="assets/training.png" width="500">
-</h3>
-
-<h3>
-  <img src="assets/validation.png" width="500">
-</h3>
-
-<h3>
-  <img src="assets/roc.png" width="500">
-</h3>
-
-## Results
-
-Kaggle score: **0.958**
-
-
-## Author
-
-**Greg (Grzegorz) Surma**
-
-[**PORTFOLIO**](https://gsurma.github.io)
-
-[**GITHUB**](https://github.com/gsurma)
-
-[**BLOG**](https://medium.com/@gsurma)
-
-<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
 
